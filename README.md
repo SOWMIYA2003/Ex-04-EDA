@@ -112,7 +112,7 @@ sns.heatmap(df_outlier.corr(),annot=True)
 ![Output](4e.png)
 ### Graphical Representation - After removing Outliers:
 ![Output](4f.png)
-### Infromation on Number of rows and columns are removing Ouliers:
+### Infromation on Number of rows and columns after removing Ouliers:
 ![Output](4g.png)
 ## EDA 
 
